@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Cards Against Humanity</string>    
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="button1">Create Table</string>
+    <string name="button2">Join Table</string>
+    <string name="button3">Games in Progress</string>
+    <string name="button4">Rules</string>
+    <string name="button5">Settings</string>
+    
+    <string name="test1">This is the Create Table Page!</string>
+    <string name="test2">This is the Join Table Page!</string>
+    <string name="test3">This is the Games in Progress Page!</string>
+    <string name="test4">This is the Rules Page!</string>
+    <string name="test5">This is the Settings Page!</string>
+    
+    
+    
+    
+
+</resources>
