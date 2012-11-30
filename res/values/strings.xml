@@ -16,6 +16,21 @@
     <string name="test4">This is the Rules Page!</string>
     <string name="test5">This is the Settings Page!</string>
     
+    <string name="name">Table Name:</string>
+    <string name="cards">Cards to Win:</string>
+    <string name="players">Number of Players:</string>
+    <string name="create">Create Table</string>
+    
+    <string name="TableID">Table ID:</string>
+    <string name="join">Join Table</string>
+    
+    
+    <string name="names">Name:</string>
+    <string name="avatar">Avatar:</string>
+    <string name="photo">Select Photo</string>
+    <string name="appearance">Theme:</string>
+    <string name="orientation">Orientation:</string>
+    
     
     
     
